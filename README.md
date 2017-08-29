@@ -7,6 +7,23 @@ Bold Stepper [boʊld ˈstɛpər]:
 1. Scroll shooter game about space
 2. My first relatively big coding project
 
+_(full description is coming soon)_
+
+## Errors made
+ - Lack of software design skills made me to rewrite the whole game _four times_.
+ 
+ - I didn't ever knew how to use Git, and some code and recources were lost forever.
+ 
+ - I was familiar with C and tried to move that imperative experience to declarative ActionScript field.  
+The imperative code I've been writing was awful.
+
+## Good parts
+ - __It looks _awesome_.__  
+High quality code may be your number one priority in real world application, but when it comes to indie games, how the game _feels_ is the king. Games are pieces of art, aren't them?
+
+ - __I've learned a lot.__  
+This game and errors I made allowed me to understand the importance of software design over raw, dumb coding. That was probably the most important experience of my life then.
+
 ## Acknowledgements & Thanks
  - [@Nyanguy](https://github.com/Nyanguy) - main character inspiration
  - [@schatty](https://github.com/schatty) - testing
