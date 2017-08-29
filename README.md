@@ -7,7 +7,9 @@ Bold Stepper [boʊld ˈstɛpər]:
 1. Scroll shooter game about space
 2. My first relatively big coding project
 
-_(full description is coming soon)_
+__Disclaimer:__ the code is completely awful, but it will never be improved. It's interesting for me to keep code _frozen_, so I can track my progress.
+
+_full description is coming soon_
 
 ## Errors made
  - Lack of software design skills made me to rewrite the whole game _four times_.
