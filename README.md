@@ -5,4 +5,4 @@
 
 Bold Stepper [boʊld ˈstɛpər]:
 1. Scroll shooter game about space
-2. My first big coding project
+2. My first relatively big coding project
