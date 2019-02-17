@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/uyouthe/boldstepper/master/media/logo-black.png"></p>
 
-# Bold Stepper
+# Bold Stepper [![Become a patron](https://miloslav.website/patreon.svg)](https://www.patreon.com/uyouthe)
 &gt;&gt;&gt; [download](https://github.com/uyouthe/boldstepper/raw/master/BoldStepper.apk) &lt;&lt;&lt;
 
 Bold Stepper [boʊld ˈstɛpər]:
