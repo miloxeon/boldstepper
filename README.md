@@ -14,7 +14,7 @@ _full description is coming soon_
 ## Errors made
  - Lack of software design skills made me to rewrite the whole game _four times_.
  
- - I didn't ever knew how to use Git, and some code and recources were lost forever.
+ - I didn't ever knew how to use Git, and some code and resources were lost forever.
  
  - I was familiar with C and tried to move that imperative experience to declarative ActionScript field.  
 The imperative code I've been writing was awful.
