@@ -31,7 +31,7 @@ This game and errors I made allowed me to understand the importance of software 
 ![image](https://user-images.githubusercontent.com/14220138/170759178-a0780882-5578-4b77-9f59-5a5719897067.png)
 
 ## Acknowledgements & Thanks
- - [@Nyanguy](https://github.com/Nyanguy) - protagonist inspiration
+ - [@iyakushev](https://github.com/iyakushev) - protagonist inspiration
  - [@schatty](https://github.com/schatty) - testing and feedback
  - [@condorcet](https://github.com/condorcet) - helped me with Adobe AIR and invented the name :)
 
