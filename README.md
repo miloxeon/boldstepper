@@ -1,9 +1,9 @@
-# Bold Stepper 
-&gt;&gt;&gt; [Download APK](https://github.com/uyouthe/boldstepper/raw/master/BoldStepper.apk) &lt;&lt;&lt;
+# Bold Stepper • [Download APK](https://github.com/uyouthe/boldstepper/raw/master/BoldStepper.apk)
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/14220138/170758656-f663c58d-a9dc-4697-8a5a-e2a3d0cda181.png"></p>
 
-## Gameplay video [[YouTube]](https://www.youtube.com/watch?v=9Cnd-EhJdkw)
+## Gameplay video • [YouTube](https://www.youtube.com/watch?v=9Cnd-EhJdkw)
 
 <a href="https://www.youtube.com/watch?v=9Cnd-EhJdkw" target="_blank"><img src="https://user-images.githubusercontent.com/14220138/170761507-100f98a0-3f06-4234-80d5-318f46d6a27d.png"></a>
 
