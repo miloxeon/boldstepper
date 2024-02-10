@@ -30,11 +30,6 @@ This game and errors I made allowed me to understand the importance of software 
 
 ![image](https://user-images.githubusercontent.com/14220138/170759178-a0780882-5578-4b77-9f59-5a5719897067.png)
 
-## Acknowledgements & Thanks
- - [@iyakushev](https://github.com/iyakushev) - protagonist inspiration
- - [@schatty](https://github.com/schatty) - testing and feedback
- - [@condorcet](https://github.com/condorcet) - helped me with Adobe AIR and invented the name :)
-
 ## Resources used
  - [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
  - [Lady Radical](http://www.fontspace.com/chequered-ink/lady-radical) (absolutely fabulous font)
