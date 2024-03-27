@@ -15,7 +15,7 @@ __Disclaimer:__ the code is absolutely terrible. I (hope I) went a long way sinc
 ## Mistakes made
  - Lack of software design skills made me rewrite the whole game _four times_.
  - I didn't ever knew how to use Git, so some code and resources were lost forever.
- - I was familiar with C and tried to move my experience to ActionScript as-is.
+ - I was only familiar with C and tried to move my experience to ActionScript as-is.
 
 ## Old title screen
 
